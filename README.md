@@ -14,8 +14,9 @@
 
 ## `> what_i_am_doing_now`
 
-I’m currently going deep on **agent harnesses**: the systems and workflows that
-make coding agents more capable, dependable, and useful in real-world work.
+I’m currently trying to go deep on **agent harnesses**: the systems and workflows that
+make coding agents more capable, dependable, and useful in real-world work. Any projects making use of them would be interested to me! 
+Still learning!
 
 I’m especially interested in building applications that raise the quality of
 our work while freeing people from tedious, repetitive tasks; creating more room
