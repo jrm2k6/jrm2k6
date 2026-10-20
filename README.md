@@ -12,6 +12,9 @@
     > ^ <    and helping teams make good decisions
 ```
 
+## ` > projects++
+- https://rapporteur.triskell-labs.com (WIP)
+
 ## `> what_i_am_doing_now`
 
 I’m currently trying to go deep on **agent harnesses**: the systems and workflows that
